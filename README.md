@@ -1,6 +1,6 @@
 ### INIT
 
-> first : create database named 'phpcrud'
+> first : create database named `'phpcrud'`
 then input SQL query
 
 > __SQL table tbbiodata__
